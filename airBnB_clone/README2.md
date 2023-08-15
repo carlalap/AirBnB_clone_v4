@@ -1,4 +1,4 @@
-# AirBnB clone - Web dynamic  
+# AirBnB clone - Web dynamic
 
 <div class="panel panel-default" id="project-description">
   <div class="panel-body">
@@ -102,7 +102,7 @@ config.vm.network :forwarded_port, guest: 5001, host: 5001
 
 <p><br />
 <br />
-<img src="https://github.com/carlalap/AirBnB_clone_v4/tree/master/web_static/images/Final.png" alt="" loading='lazy' style="" /></p>
+<img src="../web_static/images/Final.png" alt="" loading='lazy' style="" /></p>
 
 <h3>Manual QA Review</h3>
 
@@ -151,39 +151,20 @@ config.vm.network :forwarded_port, guest: 5001, host: 5001
 
   </div>
 
-  <div class="list-group">
-    <!-- Task URLs -->
-
-    <!-- Technical information -->
-      <div class="list-group-item">
-        <p><strong>Repo:</strong></p>
-        <ul>
-          <li>GitHub repository: <code>holbertonschool-AirBnB_clone_v4</code></li>
-        </ul>
-      </div>
-
-    <!-- Self-paced manual review -->
-  </div>
-
 <div class="panel-heading panel-heading-actions">
     <h3 class="panel-title">
       1. Cash only
     </h3>
 
-    <div>
-        <span class="label label-info">
-          mandatory
-        </span>
-    </div>
   </div>
 
   <div class="panel-body">
     <span id="user_id" data-id="6138"></span>
 
-    <!-- Progress vs Score -->
+   <!-- Progress vs Score -->
 
-    <!-- Task Body -->
-    <p>Write a script that starts a Flask web application:</p>
+   <!-- Task Body -->
+  <p>Write a script that starts a Flask web application:</p>
 
 <ul>
 <li>Based on <code>web_flask</code>, copy: <code>web_flask/static</code>, <code>web_flask/templates/100-hbnb.html</code>, <code>web_flask/__init__.py</code> and <code>web_flask/100-hbnb.py</code> into the <code>web_dynamic</code> folder</li>
@@ -236,6 +217,7 @@ guillaume@ubuntu:~/AirBnB_v4$
           mandatory
         </span>
     </div>
+
   </div>
 
   <div class="panel-body">
@@ -284,5 +266,3 @@ guillaume@ubuntu:~/AirBnB_v4$
 <img src="https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/9/fb54e3081e229654db6e71ba919db753a791dcc3.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230813%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230813T210750Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=6c101f1c505cec7a2eddc91059f5ccc4b02e7245e6bdaa143966eaa29c4be853" alt="" loading='lazy' style="" /></p>
 
   </div>
-
-
