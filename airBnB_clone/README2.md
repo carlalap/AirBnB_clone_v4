@@ -102,7 +102,7 @@ config.vm.network :forwarded_port, guest: 5001, host: 5001
 
 <p><br />
 <br />
-<img src="../AirBnB_clone_v4/web_static/images/Final.png" alt="" loading='lazy' style="" /></p>
+<img src="../airBnB_clone_v4/web_static/images/Final.png" alt="" loading='lazy' style="" /></p>
 
 <h3>Manual QA Review</h3>
 
